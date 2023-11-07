@@ -1,2 +1,3 @@
-
-#round1 1.ZJU_vs_CAUPekin2
+#This pipeline used to construct the duck linear pan-genome using a combination approach of Psvcp and PPsPCP pipelines.
+#Five published duck genomes were used to construct the duck pan-genome, which consists of three Pekin duck genomes, one Shaoxing duck genome, and mallard duck genome.
+##
